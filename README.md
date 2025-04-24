@@ -11,7 +11,7 @@
 
 ## Proyectos destacados 💥
 
-- 🛒 API para gestión de una librería:
+* 🛒 API para gestión de una librería:
 
 Esta API permite gestionar los usuarios, libros y préstamos de una librería. Está desarrollada siguiendo el patrón de diseño que incluye DAO (Data Access Object), DTO (Data Transfer Object) y entidades (modelo o entity).
 
