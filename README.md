@@ -7,6 +7,7 @@
 
 - Desarrolladora de software en formación.
 - Apasionada por el aprendizaje continuo y la creación de soluciones tecnológicas.
+- Me interesa seguir creciendo en el desarrollo backend y arquitectura de software. 
 - Tengo experiencia desarrollando aplicaciones web y APIs REST utilizando Java, JavaScript con Node.JS y frameworks como React y Tailwind CSS. He trabajado con bases de datos relacionales como MySQL y he desarrollado proyectos tanto en frontend como en backend.
 
 ## Proyectos destacados 💥
@@ -75,4 +76,4 @@ El script accede a la página de ofertas de empleo y extrae datos clave como:
 
 Los datos extraídos se imprimen en la consola y se almacenan en objetos para su posterior uso o almacenamiento. 
 
-Me interesa seguir creciendo en el desarrollo backend y arquitectura de software. 
+
